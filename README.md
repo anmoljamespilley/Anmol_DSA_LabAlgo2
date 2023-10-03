@@ -38,7 +38,7 @@ Explanation → Since there is only 1 transaction that is 100 and the target val
 101, hence target is not achieved.
 
 
-2. For Transaction.java
+2. For Currency.java
 
 You are a traveller and traveling to a country where the currency denominations are unknown and as you travel you get to know about the denomination in random order. You want to make a payment of amount x, in such a way that the higher denomination is used to make the exact payment. Input Take input of all the currency denominations ( random order) Take input of the amount that you want to pay. Output Print the minimum no of notes that you will be using to pay the net amount.
 
